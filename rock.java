@@ -9,5 +9,5 @@ public class rock {
         System.out.println("The first number is: " + num1);
         System.out.println("The second number is: " + num2);
         System.out.println("The sum is: " + num2); // Output: The sum is: 15
-    }
+        }
 }
